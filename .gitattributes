@@ -2,3 +2,4 @@ configurator-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
 controlpanel-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
 remote-agent-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
 schedulerWithKafka-0.0.1-SNAPSHOT[[:space:]](1).jar filter=lfs diff=lfs merge=lfs -text
+remote-agent.zip filter=lfs diff=lfs merge=lfs -text
